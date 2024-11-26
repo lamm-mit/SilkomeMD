@@ -13,9 +13,7 @@ Abstract: Spider silk combines outstanding mechanical properties and lightweight
 
 Keywords: Spider silk protein; Spidroin; Biomaterials; Molecular Dynamics Simulation; Deep Learning; Generative Modeling; Materials by Design
 
-In this study, novel silk protein sequences are designed through generative model, and their non-linear unfolding behavior and mechanical properties are investigated through molecular dynamics (MD) simulations.
-
-<img width="468" alt="image" src="https://github.com/user-attachments/assets/9b19688a-cdb6-49ce-b4be-6ddc9e978a93">
+<img alt="image" src="https://github.com/user-attachments/assets/9b19688a-cdb6-49ce-b4be-6ddc9e978a93">
 
 ## **Usage**
 1. Clone the repository:
