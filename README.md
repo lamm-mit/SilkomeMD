@@ -10,10 +10,14 @@ This repository contains the molecular dynamics (MD) simulation scripts for spid
 
 Abstract: Spider silk combines outstanding mechanical properties and lightweight nature. Its biocompatibility and biodegradability make it an excellent biological material for design. These properties stem from the hierarchical structure of spider silk proteins. However, the complexity and diversity of these proteins, alongside limited data and experimentally characterized properties, have constrained the design of silk-based biomaterials. Further, the mechanobiology and impact of these proteins on silk fibers remain underexplored. In this study, novel silk protein sequences are designed through generative model, and their non-linear unfolding behavior and mechanical properties are investigated through molecular dynamics (MD) simulations. Focusing on major ampullate spidroin (MaSp), a dataset is built by collecting sequences from the silkome dataset and augmenting it using SilkomeGPT, a generative model capable of producing novel silk-inspired sequences. Structural predictions are conducted using OmegaFold, with high-fidelity sections extracted. The unfolding responses are assessed via implicit all-atom MD simulations, and corresponding mechanical behaviors are characterized. The computationally effective approach supports the design of spider silk proteins relating specific properties, and the developed dataset enables systematic analysis on spider silk protein covering structural uncertainties, while simulations provide atomic-level insights into silk protein contributions to fiber properties, advancing the mechanobiological understanding of spider silk proteins and supporting applications in diverse fields.
 
----
+Keywords: Spider silk protein; Spidroin; Biomaterials; Molecular Dynamics Simulation; Deep Learning; Generative Modeling; Materials by Design
+
+In this study, novel silk protein sequences are designed through generative model, and their non-linear unfolding behavior and mechanical properties are investigated through molecular dynamics (MD) simulations.
+
+<img width="468" alt="image" src="https://github.com/user-attachments/assets/48fb1b40-75c2-4f39-aa13-1238bc0c336d">
 
 
-# Citation:
+## Citation:
 @article{WeiBuehler_2024,
     title   = {Generative design and molecular mechanics characterization of silk proteins based on unfolding behavior},
     author  = {W. Lu & M.J. Buehler},
