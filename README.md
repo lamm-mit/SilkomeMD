@@ -22,7 +22,8 @@ Keywords: Spider silk protein; Spidroin; Biomaterials; Molecular Dynamics Simula
    cd SilkomeMD
 
 2. Use the simulation script
-   - The simulation scripts are designed to run a single protein data in NAMD by running the main script "./Single_MD/process_single_protein.sh". Required subprocessing scripts for data pre-processing, protein equilibration, protein steered molecular dynamics (SMD), data post-processing, etc. are provided in ./Single_MD/0_codes/.
+   - The simulation scripts are designed to run a single protein data in NAMD by running the main script "./Single_MD/process_single_protein.sh"
+   - Subprocessing scripts for data pre-processing, protein equilibration, protein steered molecular dynamics (SMD), data post-processing, etc. are provided in ./Single_MD/0_codes/
    ```bash
    sbatch ./Single_MD/process_single_protein.sh
 
@@ -39,8 +40,6 @@ Detailed analysis and results are provided in the paper.
 
 ## **Citation**
 If you use this repository or the associated data in your work, please cite the following:
-
-### BibTeX
 ```bibtex
 @article{WeiBuehler_2024,
     title   = {Generative design and molecular mechanics characterization of silk proteins based on unfolding behavior},
