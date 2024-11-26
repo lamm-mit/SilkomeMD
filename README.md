@@ -1,14 +1,9 @@
 # **SilkomeMD: Generative Design and Molecular Mechanics Characterization of Silk Proteins**
 
-**Generative design and molecular mechanics characterization of silk proteins based on unfolding behavior**
+**Generative design and molecular mechanics characterization of silk proteins based on unfolding behavior**  
 **Wei Lu** & **Markus J. Buehler**  
-Massachusetts Institute of Technology, 77 Massachusetts Ave., Cambridge, MA 02139, USA
+Massachusetts Institute of Technology, 77 Massachusetts Ave., Cambridge, MA 02139, USA  
 **Contact Email**: [mbuehler@mit.edu](mailto:mbuehler@mit.edu)  
-
-**** Generative design and molecular mechanics characterization of silk proteins based on unfolding behavior
-**** Wei Lu, Markus J. Buehler  
-**** Massachusetts Institute of Technology  
-**** Contact email: [mbuehler@mit.edu](mailto:mbuehler@mit.edu)  
 
 This repository contains molecular dynamics (MD) simulation scripts for spider silk proteins, as described in the study:  
 *"Generative Design and Molecular Mechanics Characterization of Silk Proteins Based on Unfolding Behavior."*
