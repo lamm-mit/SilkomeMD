@@ -13,7 +13,7 @@ Abstract: Spider silk combines outstanding mechanical properties and lightweight
 
 Keywords: Spider silk protein; Spidroin; Biomaterials; Molecular Dynamics Simulation; Deep Learning; Generative Modeling; Materials by Design
 
-<img alt="image" src="https://github.com/user-attachments/assets/9b19688a-cdb6-49ce-b4be-6ddc9e978a93">
+<img alt="image" src="https://github.com/user-attachments/assets/f2f45c66-b8c4-4c5f-8083-326fe8686588">
 
 ## **Usage**
 1. Clone the repository:
@@ -22,18 +22,18 @@ Keywords: Spider silk protein; Spidroin; Biomaterials; Molecular Dynamics Simula
    cd SilkomeMD
 
 2. Use the simulation script
-   The simulation scripts are designed to run a single protein data in NAMD by running the main script "./Single_MD/process_single_protein.sh". Required subprocessing scripts for data pre-processing, protein equilibration, protein steered molecular dynamics (SMD), data post-processing, etc. are provided in ./Single_MD/0_codes/.
+   - The simulation scripts are designed to run a single protein data in NAMD by running the main script "./Single_MD/process_single_protein.sh". Required subprocessing scripts for data pre-processing, protein equilibration, protein steered molecular dynamics (SMD), data post-processing, etc. are provided in ./Single_MD/0_codes/.
+   ```bash
    sbatch ./Single_MD/process_single_protein.sh
-   
 
 ## **Key Results**
 
 We developed a cost-effective framework to explore and optimize the design of spider silk proteins for nanomechanical properties related to their unfolding behavior. We first created a dataset that accounts for protein uncertainties, consisting of 2,177 high-fidelity spider silk protein subsections from both natural and augmented novel sequences. Using this dataset, we systematically simulated protein unfolding through consistent MD simulations. We then characterized, collected, and analyzed the nanomechanical properties of these proteins.
 Key results and findings based on the dataset analysis, simulation performance, and the nanomechanical properties characterized from MD simulations covering structural uncertainties are summarized below:
-•	Dataset development
-•	Simulation observations
-•	Secondary structure transitions during protein unfolding
-•	Nanomechanical property and protein uncertainty analysis
+- Dataset development
+- Simulation observations
+- Secondary structure transitions during protein unfolding
+- Nanomechanical property and protein uncertainty analysis
 
 Detailed analysis and results are provided in the paper.
 
